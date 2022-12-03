@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Simple Calorie App</string>
+    <string name="add_food_entry">Add Food Entry</string>
+    <string name="add_new_food_entry">Add New Food Entry</string>
+    <string name="food_name">Food Name</string>
+    <string name="amount_of_calorie">Amount of Calorie</string>
+    <string name="time">Time</string>
+    <string name="user_id">User Id</string>
+    <string name="register">Register</string>
+    <string name="daily_limit">Daily Limit</string>
+    <string name="food_entry_list">Food Entry List</string>
+    <string name="from_colon">From:</string>
+    <string name="to_colon">To:</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sync">Sync</string>
+    <string name="last_7_days_data">Last 7 days data</string>>
+</resources>
